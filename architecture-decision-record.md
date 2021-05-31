@@ -4,6 +4,8 @@ Title    ---------------------------------- [Short title for the problem stateme
 
 Status ---------------------------------- [Approved/Rejected/Deprecated/Superseded]
 
+Decision Type ---------------------------------- [Strategic/Tactic]
+
 Metadata ------------------------------[Created by/Created on, Approved by, Approved on]
 
 Context ---------------------------------[Precious description of problem statement]
