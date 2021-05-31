@@ -1,3 +1,5 @@
+`` Architecture Decision Record (ARD) ``
+
 Title    ---------------------------------- [Short title for the problem statement]
 
 Status ---------------------------------- [Approved/Rejected/Deprecated/Superseded]
