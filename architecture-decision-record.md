@@ -12,4 +12,4 @@
 |Decision Chosen| [Chosen [option #1] because of [justifications for proposed solutions ] which resolves [reasons of concern]]|
 |Consequences| <li> Positive   [improvements and value add] </li><li> Negative [Impacts to other systems]</li>
 |Evaluated Options| Pros & Cons of options [Good , because.  Bad because] |
-|Notes & References| ------------- [links and materials used for decision making]|
+|Notes & References| [links and materials used for decision making]|
